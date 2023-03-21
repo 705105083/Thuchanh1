@@ -7,8 +7,18 @@ int tim_max(int* a, int n)
 {
 // ma lenh ham tim max
 }
+int tim_min(int* a, int n)
+{
+// ma lenh ham tim min
+}
+
+void print_value(int* a, int n);
+{
+// ma lenh ham in gia tri
+}
+
 int main()
 {
-cout << "Phien ban thu 2";
+cout << "Phien ban print function";
 return 0;
 }
